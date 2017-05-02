@@ -11,4 +11,4 @@ https://data.gov.in/catalog/district-wise-forest-cover
 ![](district_rank_files/figure-markdown_github/unnamed-chunk-21-1.png)
 
 ## Process
-Follow the markdown document to understand how scores and then rank is assigned to each district in Orissa.
+Follow the markdown "district_rank.md" to understand how scores and ranks are assigned to the districts of Orissa.
